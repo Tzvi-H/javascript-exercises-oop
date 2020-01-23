@@ -1,1 +1,1 @@
-**Solutions to Launch School's JS101 exercises**
+**Solutions to Launch School's JS120 exercises**
